@@ -79,7 +79,7 @@ You have the right to:
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
 **Developer:** Tomoki Hayashi  
-**Support:** https://github.com/Tomoki-HAYASHI-HL/RecMotion/issues
+**Support:** https://github.com/the6th/RecMotionDocs/issues
 
 ## 10. Governing Law
 

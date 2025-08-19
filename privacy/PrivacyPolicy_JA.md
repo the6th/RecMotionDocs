@@ -79,7 +79,7 @@ Tomoki Hayashi（以下「当開発者」）は、RecMotion（以下「本アプ
 本プライバシーポリシーに関するご質問やご意見がございましたら、以下までお問い合わせください：
 
 **開発者:** Tomoki Hayashi  
-**サポート:** https://github.com/Tomoki-HAYASHI-HL/RecMotion/issues
+**サポート:** https://github.com/the6th/RecMotionDocs/issues
 
 ## 10. 準拠法
 
